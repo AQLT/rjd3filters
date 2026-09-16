@@ -26,6 +26,7 @@ adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
   H-13).
 - `implicit_forecast()` function renamed to
   [`implicit_forecasts()`](https://rjdverse.github.io/rjd3filters/reference/implicit_forecasts.md).
+- Updated jdplus-incubator JARS from 2.5.3-SNAPSHOT to 2.5.2
 
 ### [2.3.0](https://github.com/rjdverse/rjd3filters/compare/v2.2.0...v2.3.0) - 2025-04-24
 
