@@ -107,7 +107,7 @@ is.finite_filters <- function(x) {
 #'
 #' These functions are used in all JDemetra+ 3.0 packages to easily interact between R and Java objects.
 #'
-#' @param jf java linear filter object.
+#' @param jf Java linear filter object.
 #' @export
 .jd2r_finitefilters <- function(jf) {
     jf <- .jcast(jf, "jdplus.toolkit.base.core.math.linearfilters/IFiltering")
