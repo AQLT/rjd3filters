@@ -13,4 +13,4 @@ interact between R and Java objects.
 
 - jf:
 
-  java linear filter object.
+  Java linear filter object.
