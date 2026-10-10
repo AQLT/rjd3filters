@@ -14,3 +14,7 @@ interact between R and Java objects.
 - jf:
 
   Java linear filter object.
+
+## Value
+
+`.jd2r_finitefilters()` returns a `finite_filters` object.
