@@ -18,14 +18,15 @@ options(max.print = 1000L)
 # `rjd3filters` <a href="https://rjdverse.github.io/rjd3filters/"><img src="man/figures/logo.png" align="right" height="150" style="float:right; height:150px;"/></a>
 
 <!-- badges: start -->
-[![CRAN status](https://www.r-pkg.org/badges/version/rjd3filters)](https://CRAN.R-project.org/package=rjd3filters)
-[![R universe version](https://rjdverse.r-universe.dev/rjd3filters/badges/version)](https://rjdverse.r-universe.dev/rjd3filters)
 [![Mentioned in Awesome Official Statistics ](https://awesome.re/mentioned-badge.svg)](https://github.com/SNStatComp/awesome-official-statistics-software)
-
+[![CRAN status](https://www.r-pkg.org/badges/version/rjd3filters)](https://CRAN.R-project.org/package=rjd3filters)
+[![CRAN last release](https://www.r-pkg.org/badges/last-release/rjd3filters)](https://cran.r-project.org/package=rjd3filters)
+[![R universe version](https://rjdverse.r-universe.dev/rjd3filters/badges/version)](https://rjdverse.r-universe.dev/rjd3filters)
+[![CRAN monthly downloads](https://cranlogs.r-pkg.org/badges/rjd3filters?color=lightgrey)](https://cran.r-project.org/package=rjd3filters)
+[![CRAN downloads](https://cranlogs.r-pkg.org/badges/grand-total/rjd3filters?color=lightgrey)](https://cran.r-project.org/package=rjd3filters)
 [![R-CMD-check](https://github.com/rjdverse/rjd3filters/actions/workflows/R-CMD-check.yml/badge.svg)](https://github.com/rjdverse/rjd3filters/actions/workflows/R-CMD-check.yml)
-[![lint](https://github.com/rjdverse/rjd3filters/actions/workflows/lint.yml/badge.svg)](https://github.com/rjdverse/rjd3filters/actions/workflows/lint.yml)
-
 [![GH Pages built](https://github.com/rjdverse/rjd3filters/actions/workflows/pkgdown.yml/badge.svg)](https://github.com/rjdverse/rjd3filters/actions/workflows/pkgdown.yml)
+[![lint](https://github.com/rjdverse/rjd3filters/actions/workflows/lint.yml/badge.svg)](https://github.com/rjdverse/rjd3filters/actions/workflows/lint.yml)
 <!-- badges: end -->
 
 
@@ -61,16 +62,6 @@ install.packages("rjd3filters", repos = c("https://rjdverse.r-universe.dev", "ht
 ```
 
 - From GitHub:
-
-```{r, echo = TRUE, eval = FALSE}
-# install.packages("remotes")
-remotes::install_github("rjdverse/rjd3filters")
-```
-
-
-### Development version
-
-To get the current development version from GitHub:
 
 ```{r, echo = TRUE, eval = FALSE}
 # install.packages("remotes")
