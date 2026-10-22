@@ -53,7 +53,7 @@ a configuration in R is explained
 install.packages("rjd3filters")
 ```
 
-To install the developpment version:
+To install the development version:
 
 - From [r-universe](https://rjdverse.r-universe.dev/rjd3filters):
 
